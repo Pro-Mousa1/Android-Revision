@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Afternoon Revision</string>
+    <string name="CALC">Calculator</string>
+    <string-array name="contact">
+        <item>Ines</item>
+        <item>Dom</item>
+        <item>Celia</item>
+        <item>Angel</item>
+        <item>Henry</item>
+        <item>Lynet</item>
+        <item>Julie</item>
+    </string-array>
+</resources>
